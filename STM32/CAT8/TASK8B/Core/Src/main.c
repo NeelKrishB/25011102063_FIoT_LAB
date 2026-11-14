@@ -83,7 +83,7 @@ int main(void)
 
   /* USER CODE BEGIN SysInit */
 
-  /* USER CODE END SysInit */
+  /* USER CODE END SysI  */
 
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
